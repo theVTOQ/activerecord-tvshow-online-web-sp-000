@@ -1,6 +1,6 @@
 require_relative 'spec_helper'
 
-describe Show do
+describe "Show" do
 
   after(:each) do
     Show.destroy_all
